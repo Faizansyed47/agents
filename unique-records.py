@@ -5,8 +5,8 @@ from tqdm import tqdm
 from collections import Counter
 
 # ===== CONFIG =====
-input_folder = r"Sample directory"
-output_folder = r"Sample directory"
+input_folder = r"Provide path here"
+output_folder = r"provide path here"
 output_base = "unique_by_email"
 csv_chunk_size = 500_000
 rows_per_output_file = 1_000_000
