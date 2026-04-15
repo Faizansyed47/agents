@@ -8,4 +8,3 @@ Functions are provided in combined files for ease of understanding. Functions ca
 2. Excel to Csv converter converts xlsx files to csv for better processing. 
 3. Vector-embeddings.py file has all the necessary necessary steps that you need to take to convert data into embeddings (Vectors, Dens & sparse dimensions) and store in a vector store such as Milvus so that a hybrid semantic search can be performed.
 You enhance the workflow by adding reranking model BGE- Reranker-V2 or any other model that best meets your use case.
-4. 
